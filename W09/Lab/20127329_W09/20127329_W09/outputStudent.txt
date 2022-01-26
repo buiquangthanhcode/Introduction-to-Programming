@@ -1,0 +1,5 @@
+Fullname : Bui Quang Thanh 
+ID :20127329
+Address : Thu Duc 
+GPA : 8.5
+Day of birth : 2002\9\17

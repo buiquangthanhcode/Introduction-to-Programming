@@ -1,0 +1,13 @@
+---------------------------
+ ID Course : CS16
+ Name course : Introduction Programming
+ Student of Array :  1
+Fullname : Bui Tien Dat 
+ID :20127000
+Address : Tan Binh 
+GPA : 8.5
+Day of birth : 2002\8\3
+ Status(open or close) : Close
+ Maximum student in array : 0
+ Mininum student in array : 0
+---------------------------

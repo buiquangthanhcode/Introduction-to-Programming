@@ -1,0 +1,12 @@
+
+Fullname : Nguyen Thi Minh Thao
+ID :20127412
+Address : Dong Nai 
+GPA : 9.5
+Day of birth : 2002\9\6
+
+Fullname : Bui Quang Thanh 
+ID :20127329
+Address : Thu Duc 
+GPA : 8.5
+Day of birth : 2002\9\17
